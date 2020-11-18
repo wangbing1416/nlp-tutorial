@@ -1,5 +1,7 @@
 # %%
+# annotated by
 # code by Tae Hwan Jung @graykode
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
